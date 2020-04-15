@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Fisher.Bookstore.Services;
 using Fisher.Bookstore.Data;
 using Microsoft.EntityFrameworkCore;
+using Fisher.Bookstore.Services;
 
 namespace Fisher.Bookstore
 {
